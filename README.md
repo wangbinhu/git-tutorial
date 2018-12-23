@@ -8,4 +8,4 @@ feature-A
 
 fix-B
 
-feeture-C
+feature-C
